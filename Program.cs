@@ -32,7 +32,6 @@ namespace PhoneBook
                             break;
                         case 2:
                             ContactServices.AddContact();
-                            ContactServices.ShowAllContacts();
                             break;
                         case 3:
                             ContactServices.EditContact();
